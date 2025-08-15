@@ -1,3 +1,5 @@
+CREATE DATABASE IF NOT EXISTS lab2;
+USE lab2;
 -- Create Tables
 CREATE TABLE Shows (
 ShowID INT PRIMARY KEY,
