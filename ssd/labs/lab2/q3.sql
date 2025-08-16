@@ -14,5 +14,5 @@ END $$
 
 DELIMITER ;
 
-CALL AddSubscriberIfNotExists('Jordan Smith');  -- exists
-CALL AddSubscriberIfNotExists('Alex Morgan');   -- new
+CALL AddSubscriberIfNotExists('Jordan Smith');
+CALL AddSubscriberIfNotExists('Alex Morgan');

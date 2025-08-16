@@ -16,7 +16,6 @@ STEPS TO EXECUTE
    USE lab2;
 4. Load the Activity data once:
    Run the CREATE-TABLE and INSERT statements exactly as given in the original PDF.
-   (These statements are NOT included in the ZIP; they are only needed for testing.)
 5. Execute each solution script in order:
    • q1.sql  → CALL ListAllSubscribers();
    • q2.sql  → CALL GetWatchHistoryBySubscriber(<SubscriberID>);
